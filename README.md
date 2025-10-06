@@ -33,6 +33,15 @@ Or in the current directory:
 clarc-init .
 ```
 
+**Start Claude Code session:**
+
+```bash
+cd my-research
+claude
+```
+
+This launches Claude Code with your research template loaded and ready to use.
+
 ## Structure Created
 
 ```
@@ -105,6 +114,19 @@ These activate automatically when needed:
 
 - Node.js >= 14.0.0
 - Claude Code (for slash commands and agents)
+
+## Important Notes
+
+> **NOTE**: This is a template with predefined agents and prompts for Claude Code to act as a **Researcher** rather than a coder.
+
+The template provides:
+- Research-focused slash commands
+- Specialized research agents (analyzer, citation manager, memory updater)
+- Structured organization for findings, sources, and notes
+
+### Portability
+
+While built specifically for Claude Code, this template can be forked and modified for other AI CLI tools like OpenAI Codex or Gemini CLI.
 
 ## License
 
