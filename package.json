@@ -22,12 +22,16 @@
     "note-taking",
     "rxa"
   ],
-  "author": "Your Name",
+  "author": "Mukul Pathak",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/clarc-template"
+    "url": "https://github.com/pathakmukul/clarc-template"
   },
+  "bugs": {
+    "url": "https://github.com/pathakmukul/clarc-template/issues"
+  },
+  "homepage": "https://github.com/pathakmukul/clarc-template#readme",
   "engines": {
     "node": ">=14.0.0"
   }

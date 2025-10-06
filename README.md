@@ -112,7 +112,7 @@ MIT
 
 ## Contributing
 
-Issues and PRs welcome at [your-repo-url]
+Issues and PRs welcome at https://github.com/pathakmukul/clarc-template
 
 ## Credits
 
