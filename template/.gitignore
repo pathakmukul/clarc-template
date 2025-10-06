@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.bak
+
+# Local settings (not shared)
+.claude/settings.local.json
+
+# Personal notes (optional - uncomment if you want to keep personal notes private)
+# notes/personal/

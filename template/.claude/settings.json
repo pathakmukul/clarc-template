@@ -1,0 +1,10 @@
+{
+  "allowedTools": [
+    "Read",
+    "Write",
+    "Grep",
+    "Glob",
+    "Bash"
+  ],
+  "model": "sonnet"
+}
